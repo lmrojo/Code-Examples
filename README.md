@@ -9,3 +9,5 @@ Currently there are 3 projects
 -Musical instruments is a project that manages (inserts, modifies, deletes) users by administrators using relational databases
 
 -Omok Game is a java applet application of the omok game 
+
+-The apk file can be downloadable and installed in an android phone
