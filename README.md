@@ -10,4 +10,4 @@ Currently there are 3 projects
 
 -Omok Game is a java applet application of the omok game 
 
--The apk file can be downloadable and installed in an android phone
+-The apk file can be downloadable and installed in an android phone, just click on the ClockAngle.apk link, then click on view raw ling to download the apl file.
