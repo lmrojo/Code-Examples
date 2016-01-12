@@ -2,7 +2,6 @@ Code-Examples
 =============
 This Repository will show code examples and projects I have worked on in current and past jobs
 
-Currently there are 3 projects
 -Diagnostic clinic, as part of the challenge I was given the picture of the front end page (Headspring_Front_End.png), I was given part of the code, my assignment was to complete the design the way the png file looks 
 
 -Omok Game is a java applet application of the omok game 
