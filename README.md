@@ -15,6 +15,7 @@ This Repository will show code examples and projects I have worked on in current
 
 -Stair Case, based on a number that user inputs (between 1 and 99) the program will print "#" 
 EG: lets say the user inputs 3, the output is the following order
-______#
-_____##
-____###  
+
+-______#
+-_____##
+-____###  
