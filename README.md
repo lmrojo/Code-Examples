@@ -13,9 +13,12 @@ This Repository will show code examples and projects I have worked on in current
 
 -Musical instruments is a project that manages (inserts, modifies, deletes) users by administrators using relational databases
 
--Stair Case, based on a number that user inputs (between 1 and 99) the program will print "#" 
+-Stair Case, based on a number that user inputs (between 1 and 99) the program will print "#" in form of stairs starting from right to left
 EG: lets say the user inputs 3, the output is the following order
 
 -______#
+
 -_____##
--____###  
+
+-____###
+  
